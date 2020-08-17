@@ -1,2 +1,2 @@
-# dt-config-repo
-This is a  Spring cloud config repository
+# Description
+This is a  Spring cloud config repository for Defect Tracker
